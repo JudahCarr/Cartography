@@ -1,2 +1,2 @@
 # Cartography
-Maps from my cartography map using ArcGISPro
+Maps from my Intro to Cartography class using ArcGISPro
